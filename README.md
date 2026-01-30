@@ -8,6 +8,43 @@ The Light Management System handles client relationship management (CRM) feature
 - **Frontend**: A responsive and interactive admin dashboard.
 - **Backend**: A RESTful API handling data persistence, authentication, and business logic.
 
+## Technologies Used
+
+The project leverages a modern and robust technical stack to ensure performance, scalability, and developer experience.
+
+### Frontend
+- **Core Framework**: [React](https://react.dev/) (v18) with [Vite](https://vitejs.dev/) for build tooling.
+- **Styling & UI**:
+    - [Tailwind CSS](https://tailwindcss.com/) (v4) for utility-first styling.
+    - [Radix UI](https://www.radix-ui.com/) (Primitives) for accessible, unstyled UI components (Dialogs, Dropdowns, Accordions, etc.).
+    - [Lucide React](https://lucide.dev/) for iconography.
+    - `class-variance-authority`, `clsx`, `tailwind-merge` for dynamic class management.
+- **State Management**:
+    - **Context API** for global state (Authentication).
+    - **React Hooks** (`useState`, `useEffect`) for local component state.
+- **Form Handling**: [React Hook Form](https://react-hook-form.com/) for efficient form validation and submission.
+- **Data Visualization**: [Recharts](https://recharts.org/) for analytics charts and graphs.
+- **Additional Components**:
+    - [Sonner](https://sonner.emilkowal.ski/) for toast notifications.
+    - [Vaul](https://vaul.emilkowal.ski/) for mobile-friendly drawers.
+    - [Embla Carousel](https://www.embla-carousel.com/) for carousel sliders.
+    - `input-otp` for one-time password inputs.
+
+### Backend
+- **Runtime Environment**: [Node.js](https://nodejs.org/).
+- **Web Framework**: [Express.js](https://expressjs.com/) for REST API routing.
+- **Database**: [MongoDB](https://www.mongodb.com/) with [Mongoose](https://mongoosejs.com/) ODM.
+- **Authentication & Security**:
+    - **JSON Web Tokens (JWT)** for stateless authentication.
+    - **bcryptjs** for password hashing.
+    - **cors** for Cross-Origin Resource Sharing.
+- **File & Data Processing**:
+    - **Multer** for handling multipart/form-data (file uploads).
+    - **XML Tools** (`xml2js`, `xml2`, `@xmldom/xmldom`) for parsing and validating XML data import/export.
+- **Utilities**:
+    - `dotenv` for environment variable management.
+    - `nodemon` for development hot-reloading.
+
 ## Architecture
 
 ### Frontend (Light Management Frontend)
