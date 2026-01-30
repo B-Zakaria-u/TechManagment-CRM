@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:element name="clients">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="client" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="reference" type="xs:string"/>
+              <xs:element name="type" type="xs:string"/>
+              <xs:element name="raisonSociale" type="xs:string"/>
+              <xs:element name="siret" type="xs:string" minOccurs="0"/>
+              <xs:element name="formeJuridique" type="xs:string" minOccurs="0"/>
+              <xs:element name="effectif" type="xs:integer" minOccurs="0"/>
+              <xs:element name="secteurActivite" type="xs:string" minOccurs="0"/>
+              
+              <xs:element name="adresseFacturation">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="adresse" type="xs:string"/>
+                    <xs:element name="codePostal" type="xs:string"/>
+                    <xs:element name="ville" type="xs:string"/>
+                    <xs:element name="pays" type="xs:string"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              
+              <xs:element name="contacts">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="contact" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="nom" type="xs:string"/>
+                          <xs:element name="prenom" type="xs:string"/>
+                          <xs:element name="fonction" type="xs:string"/>
+                          <xs:element name="email" type="xs:string"/>
+                          <xs:element name="telephone" type="xs:string"/>
+                          <xs:element name="statut" type="xs:string"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              
+              <xs:element name="informationsCommerciales">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="source" type="xs:string"/>
+                    <xs:element name="dateAcquisition" type="xs:date"/>
+                    <xs:element name="commercialResponsable" type="xs:string"/>
+                    <xs:element name="niveau" type="xs:string"/>
+                    <xs:element name="chiffreAffaireCumule" type="xs:decimal"/>
+                    <xs:element name="dernierAchat" type="xs:date"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              
+              <xs:element name="contrats" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="contrat" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="reference" type="xs:string"/>
+                          <xs:element name="type" type="xs:string"/>
+                          <xs:element name="dateDebut" type="xs:date"/>
+                          <xs:element name="dateFin" type="xs:date"/>
+                          <xs:element name="montant" type="xs:decimal"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:string" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>

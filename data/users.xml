@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/zakar/Desktop/Bozari%20Zakaria%20-%20TP%203%20Cloud/schemas/users.xsd">
+  <!-- <user>
+    <username>admin</username>
+    <password>admin123</password>
+    <role>admin</role>
+  </user> -->
+  <!-- <user>
+    <username>Thierry Bertrand</username>
+    <password>password766</password>
+    <role>client</role>
+  </user> -->
+  <!-- <user>
+    <username>Pascal Michel</username>
+    <password>password696</password>
+    <role>client</role>
+  </user> -->
+  <user>
+    <username>David Richard</username>
+    <password>password298</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>David Guerin</username>
+    <password>password791</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Laurent Dubois</username>
+    <password>password416</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Claire Martin</username>
+    <password>password176</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Agnès Bernard</username>
+    <password>password907</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Pascal Bertrand</username>
+    <password>password225</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Laurence Lefevre</username>
+    <password>password917</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sandrine François</username>
+    <password>password773</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Christine Robert</username>
+    <password>password789</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sophie Moreau</username>
+    <password>password272</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Françoise Laurent</username>
+    <password>password436</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sylvie Thomas</username>
+    <password>password459</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Michel Bertrand</username>
+    <password>password253</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Laurent Henry</username>
+    <password>password490</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Laurence David</username>
+    <password>password364</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Christine Gauthier</username>
+    <password>password440</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Véronique Roussel</username>
+    <password>password916</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Daniel Faure</username>
+    <password>password424</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sophie Lefevre</username>
+    <password>password530</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Alain Fournier</username>
+    <password>password207</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Chantal Faure</username>
+    <password>password629</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Dominique Lambert</username>
+    <password>password671</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Christian Blanc</username>
+    <password>password921</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Philippe Durand</username>
+    <password>password728</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Isabelle Dupont</username>
+    <password>password285</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Pierre Bertrand</username>
+    <password>password495</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Christophe Moreau</username>
+    <password>password554</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Philippe Chevalier</username>
+    <password>password494</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Julien Legrand</username>
+    <password>password665</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Daniel Gauthier</username>
+    <password>password893</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Philippe Mercier</username>
+    <password>password423</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Marc Martin</username>
+    <password>password862</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Thierry Mercier</username>
+    <password>password499</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Philippe Thomas</username>
+    <password>password257</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sophie Girard</username>
+    <password>password273</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Françoise Lambert</username>
+    <password>password123</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>François Mathieu</username>
+    <password>password405</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Jean Dupont</username>
+    <password>password807</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sandrine Leroy</username>
+    <password>password476</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sophie Garcia</username>
+    <password>password372</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Laurent Simon</username>
+    <password>password547</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Nicolas Mercier</username>
+    <password>password502</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Céline Rousseau</username>
+    <password>password255</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Patrick Morin</username>
+    <password>password633</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Bernard Henry</username>
+    <password>password224</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Claire Garnier</username>
+    <password>password934</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sandrine Henry</username>
+    <password>password773</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Marie Girard</username>
+    <password>password464</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Daniel Bonnet</username>
+    <password>password938</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Laurence Bertrand</username>
+    <password>password709</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Michel Rousseau</username>
+    <password>password206</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Jean Roux</username>
+    <password>password936</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>David Moreau</username>
+    <password>password607</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Nicole Durand</username>
+    <password>password263</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sébastien Blanc</username>
+    <password>password553</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sophie Henry</username>
+    <password>password194</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Françoise Lopez</username>
+    <password>password591</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sébastien Chevalier</username>
+    <password>password529</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>François David</username>
+    <password>password135</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Véronique Vincent</username>
+    <password>password501</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Christine André</username>
+    <password>password808</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Jean Gauthier</username>
+    <password>password545</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Martine Chevalier</username>
+    <password>password457</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Hélène Leroy</username>
+    <password>password747</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>François Bonnet</username>
+    <password>password271</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Gérard Bonnet</username>
+    <password>password530</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Marc Durand</username>
+    <password>password977</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Olivier François</username>
+    <password>password323</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Nathalie Garnier</username>
+    <password>password180</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Hélène Thomas</username>
+    <password>password972</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Chantal Thomas</username>
+    <password>password335</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Chantal Bernard</username>
+    <password>password906</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Dominique Leroy</username>
+    <password>password198</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Hélène Dubois</username>
+    <password>password319</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Monique Moreau</username>
+    <password>password994</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sophie Blanc</username>
+    <password>password198</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sandrine Lambert</username>
+    <password>password277</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>François Lefevre</username>
+    <password>password781</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Valérie Nicolas</username>
+    <password>password613</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Nicolas Richard</username>
+    <password>password413</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Olivier Mathieu</username>
+    <password>password488</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Christian Muller</username>
+    <password>password629</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Luc Roussel</username>
+    <password>password795</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Christian Nicolas</username>
+    <password>password245</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Laurent Petit</username>
+    <password>password188</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Luc Leroy</username>
+    <password>password122</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Brigitte Garnier</username>
+    <password>password371</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sandrine Richard</username>
+    <password>password530</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Nathalie Laurent</username>
+    <password>password505</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Patrick Lambert</username>
+    <password>password260</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>David Fournier</username>
+    <password>password239</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Monique Gauthier</username>
+    <password>password829</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Isabelle Girard</username>
+    <password>password603</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Hélène Leroy</username>
+    <password>password686</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Sébastien Lefebvre</username>
+    <password>password190</password>
+    <role>client</role>
+  </user>
+  <user>
+    <username>Françoise Bertrand</username>
+    <password>password494</password>
+    <role>admin</role>
+  </user>
+  <user>
+    <username>Hélène Perrin</username>
+    <password>password750</password>
+    <role>client</role>
+  </user>
+</users>

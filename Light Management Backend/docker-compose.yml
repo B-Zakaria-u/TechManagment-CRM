@@ -1,0 +1,60 @@
+version: '3.8'
+
+services:
+  # MongoDB Database
+  mongo:
+    image: mongo:7
+    container_name: management-mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      - MONGO_INITDB_DATABASE=techmanagment-management
+    volumes:
+      - mongo-data:/data/db
+    networks:
+      - management-network
+
+  # Backend API
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: management-backend
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - NODE_ENV=production
+      - MONGO_URI=mongodb://mongo:27017/techmanagment-management
+      - JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
+      - PORT=5000
+    networks:
+      - management-network
+    volumes:
+      - ./uploads:/app/uploads
+
+  # Frontend React App
+  frontend:
+    build:
+      context: ../Light Management Frontend
+      dockerfile: Dockerfile
+    container_name: management-frontend
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - management-network
+    environment:
+      - VITE_API_URL=http://localhost:5000/api
+
+networks:
+  management-network:
+    driver: bridge
+    name: management-network
+
+volumes:
+  mongo-data:
+    name: management-mongo-data

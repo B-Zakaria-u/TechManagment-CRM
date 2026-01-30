@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Users/zakar/Desktop/Bozari%20Zakaria%20-%20TP%203%20Cloud/schemas/products.xsd">
+  <product>
+    <name>ASUS ROG Strix G15</name>
+    <description>ASUS ROG Strix G15, Intel Core i5-12600K, AMD RX 7900 XT, 128Go DDR5, 1To SSD NVMe</description>
+    <category>Storage</category>
+    <price>3954.38</price>
+    <stock>55</stock>
+  </product>
+  <product>
+    <name>Lenovo UltraGear X1</name>
+    <description>Lenovo UltraGear X1, AMD Ryzen 7 5800X, NVIDIA RTX 4070, 16Go DDR4, 2To SSD NVMe</description>
+    <category>Tablet</category>
+    <price>2668.34</price>
+    <stock>5</stock>
+  </product>
+  <product>
+    <name>Acer UltraGear Max</name>
+    <description>Acer UltraGear Max, AMD Ryzen 9 7950X, NVIDIA RTX 3060, 32Go DDR5, 256Go SSD</description>
+    <category>Scanner</category>
+    <price>1011.12</price>
+    <stock>55</stock>
+  </product>
+  <product>
+    <name>Apple MacBook Elite</name>
+    <description>Apple MacBook Elite, Intel Core i7-13700K, NVIDIA RTX 4070, 64Go DDR5, 512Go SSD NVMe</description>
+    <category>Storage</category>
+    <price>3098.69</price>
+    <stock>16</stock>
+  </product>
+  <product>
+    <name>LG Precision Elite</name>
+    <description>LG Precision Elite, AMD Ryzen 7 5800X, AMD RX 7900 XT, 8Go DDR4, 1To SSD NVMe</description>
+    <category>Monitor</category>
+    <price>2411.15</price>
+    <stock>21</stock>
+  </product>
+  <product>
+    <name>Samsung EliteBook G15</name>
+    <description>Samsung EliteBook G15, Intel Core i5-12600K, AMD RX 6800, 16Go DDR4, 256Go SSD</description>
+    <category>Laptop</category>
+    <price>2306.11</price>
+    <stock>82</stock>
+  </product>
+  <product>
+    <name>LG Galaxy Ultra</name>
+    <description>LG Galaxy Ultra, Intel Core i9-13900K, AMD RX 6800, 32Go DDR5, 2To SSD NVMe</description>
+    <category>Scanner</category>
+    <price>887.42</price>
+    <stock>48</stock>
+  </product>
+  <product>
+    <name>Dell Galaxy Pro</name>
+    <description>Dell Galaxy Pro, Intel Core i9-13900K, NVIDIA RTX 4070, 8Go DDR4, 256Go SSD</description>
+    <category>Network</category>
+    <price>2414.38</price>
+    <stock>48</stock>
+  </product>
+  <product>
+    <name>LG UltraGear Ultra</name>
+    <description>LG UltraGear Ultra, AMD Ryzen 9 7950X, NVIDIA RTX 4080, 128Go DDR5, 512Go SSD NVMe</description>
+    <category>Laptop</category>
+    <price>2967.46</price>
+    <stock>15</stock>
+  </product>
+  <product>
+    <name>Apple Galaxy Pro</name>
+    <description>Apple Galaxy Pro, AMD Ryzen 7 5800X, NVIDIA RTX 3060, 16Go DDR4, 2To SSD NVMe</description>
+    <category>Scanner</category>
+    <price>2791.43</price>
+    <stock>66</stock>
+  </product>
+  <product>
+    <name>Acer Precision Pro</name>
+    <description>Acer Precision Pro, AMD Ryzen 9 7950X, NVIDIA RTX 4080, 8Go DDR4, 256Go SSD</description>
+    <category>Tablet</category>
+    <price>909.37</price>
+    <stock>36</stock>
+  </product>
+  <product>
+    <name>MSI Precision Ultra</name>
+    <description>MSI Precision Ultra, AMD Ryzen 9 7950X, NVIDIA RTX 3060, 8Go DDR4, 4To SSD NVMe</description>
+    <category>Tablet</category>
+    <price>3091.32</price>
+    <stock>34</stock>
+  </product>
+  <product>
+    <name>Apple MacBook Max</name>
+    <description>Apple MacBook Max, Intel Core i7-13700K, AMD RX 6800, 64Go DDR5, 2To SSD NVMe</description>
+    <category>Storage</category>
+    <price>1330.03</price>
+    <stock>37</stock>
+  </product>
+  <product>
+    <name>Samsung ROG Strix Pro</name>
+    <description>Samsung ROG Strix Pro, AMD Ryzen 7 5800X, NVIDIA RTX 4080, 16Go DDR4, 512Go SSD NVMe</description>
+    <category>Storage</category>
+    <price>2948.70</price>
+    <stock>61</stock>
+  </product>
+  <product>
+    <name>Acer EliteBook Pro</name>
+    <description>Acer EliteBook Pro, Intel Core i9-13900K, NVIDIA RTX 3060, 64Go DDR5, 512Go SSD NVMe</description>
+    <category>Server</category>
+    <price>1116.00</price>
+    <stock>49</stock>
+  </product>
+  <product>
+    <name>Samsung Prestige Elite</name>
+    <description>Samsung Prestige Elite, Intel Core i5-12600K, NVIDIA RTX 3060, 16Go DDR4, 256Go SSD</description>
+    <category>Storage</category>
+    <price>3716.97</price>
+    <stock>18</stock>
+  </product>
+  <product>
+    <name>Samsung Aspire Pro</name>
+    <description>Samsung Aspire Pro, Intel Core i5-12600K, NVIDIA RTX 3060, 64Go DDR5, 4To SSD NVMe</description>
+    <category>Scanner</category>
+    <price>787.90</price>
+    <stock>13</stock>
+  </product>
+  <product>
+    <name>Acer UltraGear Pro</name>
+    <description>Acer UltraGear Pro, AMD Ryzen 9 7950X, AMD RX 6800, 64Go DDR5, 256Go SSD</description>
+    <category>PC</category>
+    <price>3687.14</price>
+    <stock>13</stock>
+  </product>
+  <product>
+    <name>Sony Prestige G15</name>
+    <description>Sony Prestige G15, Intel Core i5-12600K, NVIDIA RTX 4070, 16Go DDR4, 512Go SSD NVMe</description>
+    <category>PC</category>
+    <price>3893.51</price>
+    <stock>58</stock>
+  </product>
+  <product>
+    <name>Samsung Precision G15</name>
+    <description>Samsung Precision G15, AMD Ryzen 9 7950X, NVIDIA RTX 4070, 8Go DDR4, 256Go SSD</description>
+    <category>Printer</category>
+    <price>384.34</price>
+    <stock>9</stock>
+  </product>
+  <product>
+    <name>LG UltraGear X1</name>
+    <description>LG UltraGear X1, Intel Core i9-13900K, NVIDIA RTX 4070, 128Go DDR5, 4To SSD NVMe</description>
+    <category>Tablet</category>
+    <price>1866.81</price>
+    <stock>32</stock>
+  </product>
+  <product>
+    <name>Sony Aspire G15</name>
+    <description>Sony Aspire G15, AMD Ryzen 7 5800X, AMD RX 6800, 16Go DDR4, 4To SSD NVMe</description>
+    <category>Server</category>
+    <price>1696.31</price>
+    <stock>54</stock>
+  </product>
+  <product>
+    <name>Apple Aspire Max</name>
+    <description>Apple Aspire Max, AMD Ryzen 7 5800X, NVIDIA RTX 3060, 8Go DDR4, 4To SSD NVMe</description>
+    <category>Server</category>
+    <price>1051.08</price>
+    <stock>26</stock>
+  </product>
+  <product>
+    <name>ASUS ThinkPad Ultra</name>
+    <description>ASUS ThinkPad Ultra, AMD Ryzen 7 5800X, AMD RX 7900 XT, 16Go DDR4, 1To SSD NVMe</description>
+    <category>Laptop</category>
+    <price>511.71</price>
+    <stock>23</stock>
+  </product>
+  <product>
+    <name>Dell Bravia Max</name>
+    <description>Dell Bravia Max, Intel Core i5-12600K, AMD RX 6800, 32Go DDR5, 256Go SSD</description>
+    <category>Phone</category>
+    <price>3785.31</price>
+    <stock>23</stock>
+  </product>
+  <product>
+    <name>MSI Galaxy G15</name>
+    <description>MSI Galaxy G15, AMD Ryzen 9 7950X, NVIDIA RTX 4080, 64Go DDR5, 4To SSD NVMe</description>
+    <category>Network</category>
+    <price>522.04</price>
+    <stock>85</stock>
+  </product>
+  <product>
+    <name>Samsung EliteBook Plus</name>
+    <description>Samsung EliteBook Plus, AMD Ryzen 9 7950X, NVIDIA RTX 3060, 128Go DDR5, 1To SSD NVMe</description>
+    <category>Server</category>
+    <price>1346.61</price>
+    <stock>55</stock>
+  </product>
+  <product>
+    <name>Sony Galaxy X1</name>
+    <description>Sony Galaxy X1, Intel Core i9-13900K, NVIDIA RTX 4080, 64Go DDR5, 512Go SSD NVMe</description>
+    <category>Phone</category>
+    <price>560.26</price>
+    <stock>81</stock>
+  </product>
+  <product>
+    <name>HP Precision Plus</name>
+    <description>HP Precision Plus, AMD Ryzen 7 5800X, NVIDIA RTX 4080, 8Go DDR4, 1To SSD NVMe</description>
+    <category>Monitor</category>
+    <price>3927.90</price>
+    <stock>40</stock>
+  </product>
+  <product>
+    <name>Acer Aspire Plus</name>
+    <description>Acer Aspire Plus, Intel Core i7-13700K, AMD RX 7900 XT, 8Go DDR4, 1To SSD NVMe</description>
+    <category>Scanner</category>
+    <price>3671.51</price>
+    <stock>63</stock>
+  </product>
+  <product>
+    <name>Sony Bravia X1</name>
+    <description>Sony Bravia X1, Intel Core i9-13900K, AMD RX 6800, 8Go DDR4, 1To SSD NVMe</description>
+    <category>Laptop</category>
+    <price>3762.01</price>
+    <stock>60</stock>
+  </product>
+  <product>
+    <name>LG UltraGear X1</name>
+    <description>LG UltraGear X1, Intel Core i7-13700K, AMD RX 6800, 16Go DDR4, 4To SSD NVMe</description>
+    <category>Laptop</category>
+    <price>3911.37</price>
+    <stock>19</stock>
+  </product>
+  <product>
+    <name>Lenovo Aspire Max</name>
+    <description>Lenovo Aspire Max, Intel Core i7-13700K, NVIDIA RTX 4080, 32Go DDR5, 512Go SSD NVMe</description>
+    <category>Phone</category>
+    <price>3965.08</price>
+    <stock>13</stock>
+  </product>
+  <product>
+    <name>Acer Bravia G15</name>
+    <description>Acer Bravia G15, AMD Ryzen 9 7950X, NVIDIA RTX 4070, 8Go DDR4, 256Go SSD</description>
+    <category>Scanner</category>
+    <price>3935.64</price>
+    <stock>63</stock>
+  </product>
+  <product>
+    <name>LG UltraGear Pro</name>
+    <description>LG UltraGear Pro, AMD Ryzen 9 7950X, AMD RX 6800, 16Go DDR4, 512Go SSD NVMe</description>
+    <category>Laptop</category>
+    <price>1392.82</price>
+    <stock>29</stock>
+  </product>
+  <product>
+    <name>Apple Galaxy Plus</name>
+    <description>Apple Galaxy Plus, AMD Ryzen 9 7950X, AMD RX 6800, 128Go DDR5, 2To SSD NVMe</description>
+    <category>Monitor</category>
+    <price>1158.12</price>
+    <stock>51</stock>
+  </product>
+  <product>
+    <name>Lenovo MacBook G15</name>
+    <description>Lenovo MacBook G15, AMD Ryzen 7 5800X, NVIDIA RTX 3060, 16Go DDR4, 1To SSD NVMe</description>
+    <category>Scanner</category>
+    <price>768.62</price>
+    <stock>17</stock>
+  </product>
+  <product>
+    <name>Acer EliteBook Plus</name>
+    <description>Acer EliteBook Plus, Intel Core i7-13700K, NVIDIA RTX 4070, 32Go DDR5, 256Go SSD</description>
+    <category>PC</category>
+    <price>2806.48</price>
+    <stock>47</stock>
+  </product>
+  <product>
+    <name>Apple MacBook Elite</name>
+    <description>Apple MacBook Elite, Intel Core i7-13700K, NVIDIA RTX 3060, 32Go DDR5, 512Go SSD NVMe</description>
+    <category>Storage</category>
+    <price>408.69</price>
+    <stock>54</stock>
+  </product>
+  <product>
+    <name>Apple Precision Elite</name>
+    <description>Apple Precision Elite, Intel Core i5-12600K, NVIDIA RTX 4080, 32Go DDR5, 4To SSD NVMe</description>
+    <category>Tablet</category>
+    <price>3596.85</price>
+    <stock>9</stock>
+  </product>
+  <product>
+    <name>HP UltraGear X1</name>
+    <description>HP UltraGear X1, AMD Ryzen 9 7950X, NVIDIA RTX 4080, 64Go DDR5, 2To SSD NVMe</description>
+    <category>Network</category>
+    <price>1914.82</price>
+    <stock>7</stock>
+  </product>
+  <product>
+    <name>Dell ThinkPad Max</name>
+    <description>Dell ThinkPad Max, AMD Ryzen 9 7950X, NVIDIA RTX 3060, 128Go DDR5, 256Go SSD</description>
+    <category>Phone</category>
+    <price>1976.57</price>
+    <stock>41</stock>
+  </product>
+  <product>
+    <name>Dell Bravia Max</name>
+    <description>Dell Bravia Max, AMD Ryzen 9 7950X, NVIDIA RTX 3060, 128Go DDR5, 1To SSD NVMe</description>
+    <category>Storage</category>
+    <price>1228.74</price>
+    <stock>7</stock>
+  </product>
+  <product>
+    <name>ASUS MacBook Ultra</name>
+    <description>ASUS MacBook Ultra, Intel Core i9-13900K, NVIDIA RTX 4080, 32Go DDR5, 1To SSD NVMe</description>
+    <category>Monitor</category>
+    <price>2015.88</price>
+    <stock>6</stock>
+  </product>
+  <product>
+    <name>HP ROG Strix Plus</name>
+    <description>HP ROG Strix Plus, Intel Core i9-13900K, NVIDIA RTX 4070, 64Go DDR5, 4To SSD NVMe</description>
+    <category>Phone</category>
+    <price>553.17</price>
+    <stock>85</stock>
+  </product>
+  <product>
+    <name>Acer ROG Strix X1</name>
+    <description>Acer ROG Strix X1, Intel Core i5-12600K, NVIDIA RTX 3060, 64Go DDR5, 2To SSD NVMe</description>
+    <category>PC</category>
+    <price>2182.65</price>
+    <stock>85</stock>
+  </product>
+  <product>
+    <name>HP EliteBook Elite</name>
+    <description>HP EliteBook Elite, AMD Ryzen 9 7950X, AMD RX 6800, 8Go DDR4, 256Go SSD</description>
+    <category>Monitor</category>
+    <price>1492.27</price>
+    <stock>0</stock>
+  </product>
+  <product>
+    <name>ASUS Bravia Max</name>
+    <description>ASUS Bravia Max, Intel Core i7-13700K, NVIDIA RTX 4080, 64Go DDR5, 256Go SSD</description>
+    <category>Server</category>
+    <price>3797.09</price>
+    <stock>48</stock>
+  </product>
+  <product>
+    <name>Dell UltraGear Ultra</name>
+    <description>Dell UltraGear Ultra, Intel Core i7-13700K, NVIDIA RTX 3060, 32Go DDR5, 256Go SSD</description>
+    <category>Phone</category>
+    <price>2927.00</price>
+    <stock>19</stock>
+  </product>
+  <product>
+    <name>Samsung ROG Strix Max</name>
+    <description>Samsung ROG Strix Max, Intel Core i5-12600K, AMD RX 6800, 32Go DDR5, 2To SSD NVMe</description>
+    <category>Monitor</category>
+    <price>903.52</price>
+    <stock>44</stock>
+  </product>
+  <product>
+    <name>ASUS ThinkPad Max</name>
+    <description>ASUS ThinkPad Max, Intel Core i7-13700K, NVIDIA RTX 4070, 64Go DDR5, 4To SSD NVMe</description>
+    <category>Monitor</category>
+    <price>1027.46</price>
+    <stock>35</stock>
+  </product>
+  <product>
+    <name>MSI EliteBook G15</name>
+    <description>MSI EliteBook G15, Intel Core i5-12600K, NVIDIA RTX 4080, 16Go DDR4, 512Go SSD NVMe</description>
+    <category>PC</category>
+    <price>2991.50</price>
+    <stock>37</stock>
+  </product>
+  <product>
+    <name>ASUS Bravia G15</name>
+    <description>ASUS Bravia G15, AMD Ryzen 9 7950X, NVIDIA RTX 4080, 64Go DDR5, 512Go SSD NVMe</description>
+    <category>Scanner</category>
+    <price>880.69</price>
+    <stock>35</stock>
+  </product>
+  <product>
+    <name>Apple Precision G15</name>
+    <description>Apple Precision G15, Intel Core i5-12600K, NVIDIA RTX 4070, 8Go DDR4, 1To SSD NVMe</description>
+    <category>Monitor</category>
+    <price>2740.14</price>
+    <stock>76</stock>
+  </product>
+  <product>
+    <name>HP UltraGear Plus</name>
+    <description>HP UltraGear Plus, AMD Ryzen 7 5800X, AMD RX 7900 XT, 8Go DDR4, 4To SSD NVMe</description>
+    <category>Monitor</category>
+    <price>3935.14</price>
+    <stock>22</stock>
+  </product>
+  <product>
+    <name>Acer UltraGear Ultra</name>
+    <description>Acer UltraGear Ultra, Intel Core i7-13700K, NVIDIA RTX 3060, 32Go DDR5, 512Go SSD NVMe</description>
+    <category>PC</category>
+    <price>1353.47</price>
+    <stock>64</stock>
+  </product>
+  <product>
+    <name>HP Aspire Plus</name>
+    <description>HP Aspire Plus, AMD Ryzen 9 7950X, AMD RX 7900 XT, 8Go DDR4, 2To SSD NVMe</description>
+    <category>Phone</category>
+    <price>3806.60</price>
+    <stock>8</stock>
+  </product>
+  <product>
+    <name>MSI Galaxy X1</name>
+    <description>MSI Galaxy X1, AMD Ryzen 9 7950X, NVIDIA RTX 3060, 16Go DDR4, 4To SSD NVMe</description>
+    <category>Storage</category>
+    <price>908.71</price>
+    <stock>40</stock>
+  </product>
+  <product>
+    <name>ASUS Precision Max</name>
+    <description>ASUS Precision Max, Intel Core i5-12600K, NVIDIA RTX 3060, 128Go DDR5, 512Go SSD NVMe</description>
+    <category>Scanner</category>
+    <price>1686.39</price>
+    <stock>41</stock>
+  </product>
+  <product>
+    <name>Samsung EliteBook Plus</name>
+    <description>Samsung EliteBook Plus, AMD Ryzen 9 7950X, NVIDIA RTX 4070, 128Go DDR5, 512Go SSD NVMe</description>
+    <category>Server</category>
+    <price>3419.37</price>
+    <stock>74</stock>
+  </product>
+  <product>
+    <name>Acer Aspire X1</name>
+    <description>Acer Aspire X1, Intel Core i5-12600K, AMD RX 7900 XT, 64Go DDR5, 2To SSD NVMe</description>
+    <category>Server</category>
+    <price>552.02</price>
+    <stock>75</stock>
+  </product>
+  <product>
+    <name>Sony Precision Max</name>
+    <description>Sony Precision Max, Intel Core i9-13900K, NVIDIA RTX 3060, 32Go DDR5, 2To SSD NVMe</description>
+    <category>Laptop</category>
+    <price>3205.54</price>
+    <stock>10</stock>
+  </product>
+  <product>
+    <name>LG MacBook Elite</name>
+    <description>LG MacBook Elite, Intel Core i5-12600K, NVIDIA RTX 4080, 64Go DDR5, 512Go SSD NVMe</description>
+    <category>Laptop</category>
+    <price>3978.55</price>
+    <stock>30</stock>
+  </product>
+  <product>
+    <name>MSI Galaxy Ultra</name>
+    <description>MSI Galaxy Ultra, Intel Core i5-12600K, NVIDIA RTX 4080, 32Go DDR5, 512Go SSD NVMe</description>
+    <category>Tablet</category>
+    <price>3738.76</price>
+    <stock>6</stock>
+  </product>
+  <product>
+    <name>Apple EliteBook X1</name>
+    <description>Apple EliteBook X1, AMD Ryzen 7 5800X, NVIDIA RTX 4070, 32Go DDR5, 256Go SSD</description>
+    <category>Printer</category>
+    <price>2690.25</price>
+    <stock>85</stock>
+  </product>
+  <product>
+    <name>LG Galaxy Ultra</name>
+    <description>LG Galaxy Ultra, Intel Core i7-13700K, AMD RX 6800, 16Go DDR4, 4To SSD NVMe</description>
+    <category>Tablet</category>
+    <price>2841.61</price>
+    <stock>72</stock>
+  </product>
+  <product>
+    <name>Lenovo Bravia Ultra</name>
+    <description>Lenovo Bravia Ultra, AMD Ryzen 9 7950X, AMD RX 7900 XT, 16Go DDR4, 1To SSD NVMe</description>
+    <category>Scanner</category>
+    <price>1218.21</price>
+    <stock>2</stock>
+  </product>
+  <product>
+    <name>MSI ThinkPad X1</name>
+    <description>MSI ThinkPad X1, Intel Core i5-12600K, AMD RX 6800, 32Go DDR5, 1To SSD NVMe</description>
+    <category>Tablet</category>
+    <price>1236.65</price>
+    <stock>28</stock>
+  </product>
+  <product>
+    <name>Apple Prestige Plus</name>
+    <description>Apple Prestige Plus, Intel Core i9-13900K, NVIDIA RTX 3060, 8Go DDR4, 1To SSD NVMe</description>
+    <category>PC</category>
+    <price>1170.77</price>
+    <stock>3</stock>
+  </product>
+  <product>
+    <name>MSI ROG Strix Ultra</name>
+    <description>MSI ROG Strix Ultra, Intel Core i7-13700K, NVIDIA RTX 4080, 16Go DDR4, 1To SSD NVMe</description>
+    <category>PC</category>
+    <price>584.58</price>
+    <stock>88</stock>
+  </product>
+  <product>
+    <name>Sony MacBook Plus</name>
+    <description>Sony MacBook Plus, Intel Core i9-13900K, NVIDIA RTX 3060, 16Go DDR4, 1To SSD NVMe</description>
+    <category>Storage</category>
+    <price>3879.18</price>
+    <stock>90</stock>
+  </product>
+  <product>
+    <name>LG ThinkPad X1</name>
+    <description>LG ThinkPad X1, Intel Core i9-13900K, NVIDIA RTX 4080, 128Go DDR5, 1To SSD NVMe</description>
+    <category>Printer</category>
+    <price>2586.87</price>
+    <stock>22</stock>
+  </product>
+  <product>
+    <name>Sony Galaxy Pro</name>
+    <description>Sony Galaxy Pro, Intel Core i7-13700K, NVIDIA RTX 4070, 32Go DDR5, 1To SSD NVMe</description>
+    <category>Monitor</category>
+    <price>2296.54</price>
+    <stock>1</stock>
+  </product>
+  <product>
+    <name>HP UltraGear G15</name>
+    <description>HP UltraGear G15, Intel Core i7-13700K, NVIDIA RTX 4070, 16Go DDR4, 256Go SSD</description>
+    <category>Storage</category>
+    <price>720.45</price>
+    <stock>43</stock>
+  </product>
+  <product>
+    <name>Samsung Galaxy Max</name>
+    <description>Samsung Galaxy Max, Intel Core i9-13900K, NVIDIA RTX 3060, 64Go DDR5, 1To SSD NVMe</description>
+    <category>Network</category>
+    <price>1147.42</price>
+    <stock>37</stock>
+  </product>
+  <product>
+    <name>HP Prestige X1</name>
+    <description>HP Prestige X1, Intel Core i5-12600K, NVIDIA RTX 3060, 64Go DDR5, 1To SSD NVMe</description>
+    <category>Laptop</category>
+    <price>888.47</price>
+    <stock>37</stock>
+  </product>
+  <product>
+    <name>HP Bravia Plus</name>
+    <description>HP Bravia Plus, Intel Core i7-13700K, NVIDIA RTX 3060, 64Go DDR5, 1To SSD NVMe</description>
+    <category>Network</category>
+    <price>485.27</price>
+    <stock>58</stock>
+  </product>
+  <product>
+    <name>MSI ThinkPad Max</name>
+    <description>MSI ThinkPad Max, Intel Core i5-12600K, AMD RX 6800, 64Go DDR5, 1To SSD NVMe</description>
+    <category>Network</category>
+    <price>1809.68</price>
+    <stock>58</stock>
+  </product>
+  <product>
+    <name>Dell EliteBook Elite</name>
+    <description>Dell EliteBook Elite, Intel Core i5-12600K, NVIDIA RTX 4070, 128Go DDR5, 256Go SSD</description>
+    <category>Storage</category>
+    <price>2572.93</price>
+    <stock>71</stock>
+  </product>
+  <product>
+    <name>Apple Aspire Elite</name>
+    <description>Apple Aspire Elite, Intel Core i9-13900K, NVIDIA RTX 4080, 128Go DDR5, 4To SSD NVMe</description>
+    <category>Monitor</category>
+    <price>1435.22</price>
+    <stock>58</stock>
+  </product>
+  <product>
+    <name>Acer Precision Ultra</name>
+    <description>Acer Precision Ultra, AMD Ryzen 9 7950X, NVIDIA RTX 4070, 128Go DDR5, 512Go SSD NVMe</description>
+    <category>Storage</category>
+    <price>3030.03</price>
+    <stock>50</stock>
+  </product>
+  <product>
+    <name>ASUS ROG Strix Max</name>
+    <description>ASUS ROG Strix Max, AMD Ryzen 9 7950X, NVIDIA RTX 4080, 64Go DDR5, 2To SSD NVMe</description>
+    <category>Scanner</category>
+    <price>696.84</price>
+    <stock>88</stock>
+  </product>
+  <product>
+    <name>ASUS ThinkPad Max</name>
+    <description>ASUS ThinkPad Max, AMD Ryzen 7 5800X, NVIDIA RTX 4070, 64Go DDR5, 256Go SSD</description>
+    <category>Tablet</category>
+    <price>1146.17</price>
+    <stock>62</stock>
+  </product>
+  <product>
+    <name>Apple Aspire X1</name>
+    <description>Apple Aspire X1, Intel Core i7-13700K, AMD RX 7900 XT, 8Go DDR4, 1To SSD NVMe</description>
+    <category>Scanner</category>
+    <price>443.41</price>
+    <stock>48</stock>
+  </product>
+  <product>
+    <name>Dell Aspire Ultra</name>
+    <description>Dell Aspire Ultra, AMD Ryzen 7 5800X, NVIDIA RTX 4080, 16Go DDR4, 2To SSD NVMe</description>
+    <category>Storage</category>
+    <price>3906.21</price>
+    <stock>27</stock>
+  </product>
+  <product>
+    <name>MSI Galaxy Elite</name>
+    <description>MSI Galaxy Elite, AMD Ryzen 9 7950X, NVIDIA RTX 3060, 8Go DDR4, 1To SSD NVMe</description>
+    <category>Laptop</category>
+    <price>1041.35</price>
+    <stock>16</stock>
+  </product>
+  <product>
+    <name>Lenovo EliteBook Ultra</name>
+    <description>Lenovo EliteBook Ultra, Intel Core i5-12600K, NVIDIA RTX 4080, 32Go DDR5, 1To SSD NVMe</description>
+    <category>Scanner</category>
+    <price>2875.04</price>
+    <stock>31</stock>
+  </product>
+  <product>
+    <name>Acer Aspire Plus</name>
+    <description>Acer Aspire Plus, AMD Ryzen 9 7950X, NVIDIA RTX 3060, 128Go DDR5, 4To SSD NVMe</description>
+    <category>Server</category>
+    <price>2502.43</price>
+    <stock>34</stock>
+  </product>
+  <product>
+    <name>Lenovo ROG Strix Ultra</name>
+    <description>Lenovo ROG Strix Ultra, AMD Ryzen 7 5800X, NVIDIA RTX 3060, 64Go DDR5, 1To SSD NVMe</description>
+    <category>Printer</category>
+    <price>2523.75</price>
+    <stock>88</stock>
+  </product>
+  <product>
+    <name>Samsung MacBook Pro</name>
+    <description>Samsung MacBook Pro, Intel Core i5-12600K, NVIDIA RTX 4080, 8Go DDR4, 1To SSD NVMe</description>
+    <category>Network</category>
+    <price>1966.93</price>
+    <stock>70</stock>
+  </product>
+  <product>
+    <name>MSI Aspire Elite</name>
+    <description>MSI Aspire Elite, AMD Ryzen 7 5800X, NVIDIA RTX 3060, 64Go DDR5, 2To SSD NVMe</description>
+    <category>Printer</category>
+    <price>3594.05</price>
+    <stock>80</stock>
+  </product>
+  <product>
+    <name>Apple Precision Pro</name>
+    <description>Apple Precision Pro, Intel Core i5-12600K, AMD RX 7900 XT, 32Go DDR5, 4To SSD NVMe</description>
+    <category>Network</category>
+    <price>3482.09</price>
+    <stock>83</stock>
+  </product>
+  <product>
+    <name>Dell Bravia Pro</name>
+    <description>Dell Bravia Pro, Intel Core i5-12600K, AMD RX 6800, 8Go DDR4, 1To SSD NVMe</description>
+    <category>Printer</category>
+    <price>3113.54</price>
+    <stock>86</stock>
+  </product>
+  <product>
+    <name>LG MacBook Max</name>
+    <description>LG MacBook Max, Intel Core i5-12600K, AMD RX 6800, 128Go DDR5, 1To SSD NVMe</description>
+    <category>Laptop</category>
+    <price>3619.97</price>
+    <stock>28</stock>
+  </product>
+  <product>
+    <name>Acer Prestige Ultra</name>
+    <description>Acer Prestige Ultra, Intel Core i5-12600K, NVIDIA RTX 4080, 128Go DDR5, 4To SSD NVMe</description>
+    <category>Laptop</category>
+    <price>3824.14</price>
+    <stock>58</stock>
+  </product>
+  <product>
+    <name>Acer ROG Strix X1</name>
+    <description>Acer ROG Strix X1, Intel Core i5-12600K, AMD RX 7900 XT, 128Go DDR5, 1To SSD NVMe</description>
+    <category>Phone</category>
+    <price>3955.68</price>
+    <stock>43</stock>
+  </product>
+  <product>
+    <name>Apple Bravia Plus</name>
+    <description>Apple Bravia Plus, Intel Core i9-13900K, NVIDIA RTX 4070, 8Go DDR4, 256Go SSD</description>
+    <category>PC</category>
+    <price>959.08</price>
+    <stock>73</stock>
+  </product>
+  <product>
+    <name>HP Prestige G15</name>
+    <description>HP Prestige G15, AMD Ryzen 9 7950X, AMD RX 7900 XT, 32Go DDR5, 2To SSD NVMe</description>
+    <category>Storage</category>
+    <price>3548.60</price>
+    <stock>100</stock>
+  </product>
+  <product>
+    <name>Samsung ROG Strix X1</name>
+    <description>Samsung ROG Strix X1, Intel Core i9-13900K, NVIDIA RTX 4080, 8Go DDR4, 4To SSD NVMe</description>
+    <category>Tablet</category>
+    <price>1218.60</price>
+    <stock>30</stock>
+  </product>
+  <product>
+    <name>Apple ROG Strix Plus</name>
+    <description>Apple ROG Strix Plus, Intel Core i5-12600K, NVIDIA RTX 4070, 8Go DDR4, 1To SSD NVMe</description>
+    <category>Laptop</category>
+    <price>1410.86</price>
+    <stock>81</stock>
+  </product>
+</products>

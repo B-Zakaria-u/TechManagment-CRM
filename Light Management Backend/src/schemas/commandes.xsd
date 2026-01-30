@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+  <xs:element name="commandes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="commande" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="reference" type="xs:string"/>
+              <xs:element name="clientId" type="xs:string"/>
+              <xs:element name="opportuniteId" type="xs:string" minOccurs="0"/>
+              <xs:element name="type" type="xs:string"/>
+              <xs:element name="statut" type="xs:string"/>
+              <xs:element name="dateCreation" type="xs:date"/>
+              <xs:element name="dateValidation" type="xs:date" minOccurs="0"/>
+              
+              <xs:element name="lignes" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="ligne" maxOccurs="unbounded" >
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="produitId" type="xs:string"/>
+                          <xs:element name="quantite" type="xs:integer"/>
+                          <xs:element name="prixUnitaireHT" type="xs:decimal"/>
+                          <xs:element name="remise" type="xs:decimal"/>
+                          <xs:element name="totalHT" type="xs:decimal"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              
+              <xs:element name="totaux">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="totalHT" type="xs:decimal"/>
+                    <xs:element name="totalTVA" type="xs:decimal"/>
+                    <xs:element name="totalTTC" type="xs:decimal"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              
+              <xs:element name="conditions" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="delaiLivraison" type="xs:integer"/>
+                    <xs:element name="modalitesPaiement" type="xs:string"/>
+                    <xs:element name="validiteDevis" type="xs:integer"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:string" use="optional"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  
+</xs:schema>
